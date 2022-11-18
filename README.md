@@ -1,4 +1,4 @@
-# 🔥 study webpack
+# 🚀 study webpack
 
 참고자료 :
 
@@ -18,7 +18,7 @@
 
 ## 4. [웹팩의 플러그인](https://github.com/yooveloper/study-webpack/blob/main/%EC%A0%95%EB%A6%AC/5.%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8.md)
 
-## 5. 실습
+## 5. 🔥 실습
 
 - webpack.config.js 파일을 직접 설정해보고
   순서대로 loader와 plugin들을 설치,적용 해보며 쓰임새에 대해 이해한다.
