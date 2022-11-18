@@ -2,7 +2,7 @@
 
 참고자료 :
 
-[[토크ON세미나] 프론트엔드 개발환경 이해 | T아카데미](https://youtu.be/MqK0W-fbQPc)
+[[토크ON세미나] 프론트엔드 개발환경 이해 | T아카데미](https://youtu.be/bBYrpK5gjk0)
 
 [프론트엔드 개발환경의 이해: 웹팩(기본) by 김정환](https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html#1-%EB%B0%B0%EA%B2%BD)
 
